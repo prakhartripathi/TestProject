@@ -1,9 +1,6 @@
 hi bro
 
 hello bro..
-<<<<<<< HEAD
 yellow bro
-=======
 
 jcnajcnakklamsk.amck.
->>>>>>> 0a8b505096d59321da30762390c273ac63a75035
